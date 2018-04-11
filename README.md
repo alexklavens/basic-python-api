@@ -7,6 +7,7 @@ pip install marshmallow-sqlalchemy
 
 ## How to Run
 > cd to /basic-python-api
+
 > python crud.py
 
 
